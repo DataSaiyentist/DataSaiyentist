@@ -14,6 +14,9 @@ If the android doesn't murder its fellow, then it shows empathy and the test suc
 </br>
 Likewise, the Turing test verifies whether machines have intelligent behavior equivalent to human beings.
 
+<code><img height="500" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/5c743136983800acf768453fbf56a95f7a3aa0d7/turing.jpg"></code>
+
+
 In my opinion, in the next years, machines will pass the Turing test and our concerns about AI surpassing its creators will become reality. Indeed, machines have already surpassed us in some limited domaines. For instance, eweryone knows that the best human chess players in the world have been defeated by artificial intelligence.
 </br>
 However, nature made humans complex: that is our character trait.
