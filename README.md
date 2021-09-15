@@ -1,4 +1,4 @@
-# GeNarukami
+# Data Saiyentist
 
 I'm a highly motivated engineering student who'd like to become a Data scientist.
 </br>
