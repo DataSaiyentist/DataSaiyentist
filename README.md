@@ -12,19 +12,18 @@ The Kamski test wonders whether machines are capable of empathy, more precisely 
 </br>
 If the android doesn't murder its fellow, then it shows empathy and the test succeeds.
 </br>
-Likewise, the Turing test verifies whether machines have intelligent behavior equivalent to human beings.
+Likewise, the [Turing test](http://www-logic.stanford.edu/seminar/1213/Hawke_TuringTest.pdf) verifies whether machines have intelligent behavior equivalent to human beings.
 
 <code><img height="500" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/5c743136983800acf768453fbf56a95f7a3aa0d7/turing.jpg"></code>
 
 
-In my opinion, in the next years, machines will pass the Turing test and our concerns about AI surpassing its creators will become reality. Indeed, machines have already surpassed us in some limited domaines. For instance, eweryone knows that the best human chess players in the world have been defeated by artificial intelligence.
+In my opinion, in the next years, machines will pass the Turing test and our concerns about AI surpassing its creators will become reality. Indeed, machines have already surpassed us in some limited domaines. For instance, [everyone knows that the best human chess players in the world have been defeated by artificial intelligence](https://www.youtube.com/watch?v=KF6sLCeBj0s).
 </br>
 However, nature made humans complex: that is our character trait.
 </br>
 Would machines be able to create a paint, a book or a music ? It's true that machines have also begun tackling some of this fields. 
 </br>
-Yet, they can't reproduce that something which
-is typical of humans.
+Yet, they can't reproduce that something which is typical of humans.
 
 So, I think that combined with AI we can do great things and maybe we can achieve the impossible.
 
