@@ -14,7 +14,7 @@ If the android doesn't murder its fellow, then it shows empathy and the test suc
 </br>
 Likewise, the [Turing test](http://www-logic.stanford.edu/seminar/1213/Hawke_TuringTest.pdf) verifies whether machines have intelligent behavior equivalent to human beings.
 
-<code><img height="500" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/5c743136983800acf768453fbf56a95f7a3aa0d7/turing.jpg"></code>
+<code><img height="500" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/turing.jpg"></code>
 
 
 In my opinion, in the next years, machines will pass the Turing test and our concerns about AI surpassing its creators will become reality. Indeed, machines have already surpassed us in some limited domaines. For instance, [everyone knows that the best human chess players in the world have been defeated by artificial intelligence](https://www.youtube.com/watch?v=KF6sLCeBj0s).
@@ -32,10 +32,10 @@ So, I think that combined with AI we can do great things and maybe we can achiev
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://github.com/GeNarukami/GeNarukami/blob/5765a5c8417ac1b89eddc9ab7881180eb1235fde/rstudio.png"></code>
-<code><img height="20" src="https://github.com/GeNarukami/GeNarukami/blob/a92050072fe7e008eac46c030cf71f229827736f/python.png"></code>
-<code><img height="20" src="https://github.com/GeNarukami/GeNarukami/blob/ae97e74cb00a3e6c783291332b14cf86d687a7a5/latex.png"></code>
-<code><img height="20" src="https://github.com/GeNarukami/GeNarukami/blob/ae97e74cb00a3e6c783291332b14cf86d687a7a5/dbbrowser.png"></code>
-<code><img height="20" src="https://github.com/GeNarukami/GeNarukami/blob/ae97e74cb00a3e6c783291332b14cf86d687a7a5/c.png"></code>
-<code><img height="20" src="https://github.com/GeNarukami/GeNarukami/blob/ae97e74cb00a3e6c783291332b14cf86d687a7a5/c%23.png"></code>
-<code><img height="20" src="https://github.com/GeNarukami/GeNarukami/blob/ae97e74cb00a3e6c783291332b14cf86d687a7a5/c++.png"></code>
+<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/rstudio.png"></code>
+<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/python.png"></code>
+<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/latex.png"></code>
+<code><img height="20" src="https://https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/dbbrowser.png"></code>
+<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/c.png"></code>
+<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/c%23.png"></code>
+<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/c++.png"></code>
