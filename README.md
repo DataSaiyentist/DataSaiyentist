@@ -4,7 +4,7 @@ I'm a highly motivated engineering student who'd like to become a Data scientist
 </br>
 Later, I'd like to invest my time in green energy in order to be useful.
 </br>
-I'm currently a 2nd year student at [ENSIIE](https://www.ensiie.fr/) which is a French computer science engineering school.
+I'm currently a 3rd year student at [ENSIIE](https://www.ensiie.fr/) which is a French computer science engineering school.
 
 My first attraction for artificial intelligence (AI) borned when I discovered the Turing test through the Kamski test (introduced in the video game [Detroit: Become Human](https://www.quanticdream.com/en/detroit-become-human)).
 </br>
