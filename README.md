@@ -20,7 +20,7 @@ However, nature made humans complex: that is our character trait.
 </br>
 Would machines be able to create a paint, a book or a music ? It is s true that machines have also begun tackling some of this fields and they are good at it (for instance [AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
 </br>
-Yet, they can't reproduce that something which is typical of humans.
+Yet, they cannot reproduce that something which is typical of humans.
 
 So, I think that combined with AI we can do great things and maybe we can achieve the impossible.
 
