@@ -18,7 +18,7 @@ In my opinion, in the next years, machines will pass the Turing test and our con
 </br>
 However, nature made humans complex: that is our character trait.
 </br>
-Would machines be able to create a paint, a book or a music ? It is s true that machines have also begun tackling some of this fields and they are good at it ([AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
+Would machines be able to create a paint, a book or a music ? It is s true that machines have also begun tackling some of this fields and they are good at it (for instance [AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
 </br>
 Yet, they can't reproduce that something which is typical of humans.
 
