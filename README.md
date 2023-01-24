@@ -10,7 +10,7 @@ My first attraction for artificial intelligence (AI) borned when I discovered th
 </br>
 The Kamski test wonders whether machines are capable of empathy, more precisely whether an android is capable to kill its fellows. 
 </br>
-If the android doesn't murder its fellow, then it shows empathy and the test succeeds.
+If the android does not murder its fellow, then it shows empathy and the test succeeds.
 </br>
 Likewise, the [Turing test](http://www-logic.stanford.edu/seminar/1213/Hawke_TuringTest.pdf) verifies whether machines have intelligent behavior equivalent to human beings.
 
@@ -18,7 +18,7 @@ In my opinion, in the next years, machines will pass the Turing test and our con
 </br>
 However, nature made humans complex: that is our character trait.
 </br>
-Would machines be able to create a paint, a book or a music ? It's true that machines have also begun tackling some of this fields. 
+Would machines be able to create a paint, a book or a music ? It is s true that machines have also begun tackling some of this fields and they are good at it ([AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
 </br>
 Yet, they can't reproduce that something which is typical of humans.
 
