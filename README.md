@@ -1,10 +1,10 @@
 # Data Saiyentist
 
-I'm a highly motivated engineering student who'd like to become a Data scientist.
+I am a highly motivated engineering student who would like to become a Data scientist.
 </br>
-Later, I'd like to invest my time in green energy in order to be useful.
+Later, I would like to invest my time in green energy in order to be useful.
 </br>
-I'm currently a 3rd year student at [ENSIIE](https://www.ensiie.fr/) which is a French computer science engineering school. And I'm also enrolled in a master of Data Science ([M2DS](http://www.math-evry.cnrs.fr/departement/doku.php?id=formation:master:m2ds)) within the [University of Évry](https://www.univ-evry.fr/accueil.html).
+I am currently a 3rd year student at [ENSIIE](https://www.ensiie.fr/) which is a French computer science engineering school. And I am also enrolled in a master of Data Science ([M2DS](http://www.math-evry.cnrs.fr/departement/doku.php?id=formation:master:m2ds)) within the [University of Évry](https://www.univ-evry.fr/accueil.html).
 
 My first attraction for artificial intelligence (AI) borned when I discovered the Turing test through the Kamski test (introduced in the video game [Detroit: Become Human](https://www.quanticdream.com/en/detroit-become-human)).
 </br>
