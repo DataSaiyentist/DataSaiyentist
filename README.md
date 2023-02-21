@@ -24,7 +24,7 @@ Yet, they cannot reproduce that something which is typical of humans.
 
 So, I think that combined with AI we can do great things and maybe we can achieve the impossible.
 
-| <img align="center" src="https://github-readme-stats-theta-two-73.vercel.app/api?username=DataSaiyentist&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true&include_all_commits=true" alt="Data Saiyentist's github stats" /> | <img align="center" src="https://github-readme-stats-theta-two-73.vercel.app/api/top-langs/?username=DataSaiyentist&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true" /> |
+| <img align="center" src="https://github-readme-stats-three-xi-19.vercel.app/api?username=DataSaiyentist&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true&include_all_commits=true" alt="Data Saiyentist's github stats" /> | <img align="center" src="https://github-readme-stats-three-xi-19.vercel.app/api/top-langs/?username=DataSaiyentist&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&count_private=true" /> |
 | ------------- | ------------- |
 
 **Languages and Tools:**
