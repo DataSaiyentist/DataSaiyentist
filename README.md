@@ -23,10 +23,8 @@ So, I think that combined with AI we can do great things and maybe we can achiev
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/rstudio.png"></code>
 <code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/python.png"></code>
+<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/rstudio.png"></code>
 <code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/latex.png"></code>
 <code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/3f900dea455c01b5bc6c4e219548d6d7fb91c89d/src/dbbrowser.png"></code>
-<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/c.png"></code>
-<code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/c%23.png"></code>
 <code><img height="20" src="https://github.com/DataSaiyentist/DataSaiyentist/blob/7e6a1b56d6ab0def623d15297afe28e8c9136ec9/src/c++.png"></code>
