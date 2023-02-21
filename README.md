@@ -6,19 +6,13 @@ Later, I would like to invest my time in green energy in order to be useful.
 </br>
 I am currently a 3rd year student at [ENSIIE](https://www.ensiie.fr/) which is a French computer science engineering school. And I am also enrolled in a master of Data Science ([M2DS](http://www.math-evry.cnrs.fr/departement/doku.php?id=formation:master:m2ds)) within the [University of Évry](https://www.univ-evry.fr/accueil.html).
 
-My first attraction for artificial intelligence (AI) borned when I discovered the Turing test through the Kamski test (introduced in the video game [Detroit: Become Human](https://www.quanticdream.com/en/detroit-become-human)).
-</br>
-The Kamski test wonders whether machines are capable of empathy, more precisely whether an android is capable to kill its fellows. 
-</br>
-If the android does not murder its fellow, then it shows empathy and the test succeeds.
+My first attraction for artificial intelligence (AI) borned when I discovered the Turing test through the Kamski test (introduced in the video game [Detroit: Become Human](https://www.quanticdream.com/en/detroit-become-human)). The Kamski test wonders whether machines are capable of empathy, more precisely whether an android is capable to kill its fellows. If the android does not murder its fellow, then it shows empathy and the test succeeds.
 </br>
 Likewise, the [Turing test](http://www-logic.stanford.edu/seminar/1213/Hawke_TuringTest.pdf) verifies whether machines have intelligent behavior equivalent to human beings.
 
 In my opinion, in the next years, machines will pass the Turing test and our concerns about AI surpassing its creators will become reality. Indeed, machines have already surpassed us in some limited domaines. For instance, [everyone knows that the best human chess players in the world have been defeated by artificial intelligence](https://www.youtube.com/watch?v=KF6sLCeBj0s).
 </br>
-However, nature made humans complex: that is our character trait.
-</br>
-Would machines be able to create a paint, a book or a music ? It is s true that machines have also begun tackling some of this fields and they are good at it (for instance [AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
+However, nature made humans complex: that is our character trait. Would machines be able to create a paint, a book or a music ? It is s true that machines have also begun tackling some of this fields and they are good at it (for instance [AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
 </br>
 Yet, they cannot reproduce that something which is typical of humans.
 
