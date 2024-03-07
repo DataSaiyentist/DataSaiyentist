@@ -12,7 +12,7 @@ Likewise, the [Turing test](http://www-logic.stanford.edu/seminar/1213/Hawke_Tur
 
 In my opinion, in the next years, machines will pass the Turing test and our concerns about AI surpassing its creators will become reality. Indeed, machines have already surpassed us in some limited domaines. For instance, [everyone knows that the best human chess players in the world have been defeated by artificial intelligence](https://www.youtube.com/watch?v=KF6sLCeBj0s).
 </br>
-However, nature made humans complex: that is our character trait. Would machines be able to create a paint, a book or a music ? It is s true that machines have also begun tackling some of this fields and they are very good at it (for instance [AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
+However, nature made humans complex: that is our character trait. Would machines be able to create a paint, a book or a music ? It is true that machines have also begun tackling some of this fields and they are very good at it (for instance [AIVA](https://aiva.ai/) or [Midjourney](https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F)). 
 </br>
 Yet, they cannot reproduce that something which is typical of humans.
 
